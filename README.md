@@ -1,12 +1,12 @@
 # Student Health & Social Media Analytics Dashboard
 
-## 1. Project Overview
+## 📌1. Project Overview
 
 The **Student Health & Social Media Analytics Dashboard** explores relationships between students' social media usage, AI tool usage, sleep patterns, physical activity, and mental and physical health indicators.
 
 The project transforms student-related data into visual insights through an interactive dashboard. It helps identify digital usage patterns, compare health indicators across demographic groups, and investigate how digital habits may be associated with student well-being.
 
-## 2. Project Objectives
+##🎯 2. Project Objectives
 
 - Analyze daily social media usage and AI tool usage among students.
 - Explore relationships between screen time, sleep duration, physical activity, and health scores.
@@ -15,7 +15,7 @@ The project transforms student-related data into visual insights through an inte
 - Present findings through an interactive, easy-to-understand dashboard.
 - Provide data-informed recommendations that encourage healthier digital habits.
 
-## 3. Dataset Information
+## 💬3. Dataset Information
 
 The dashboard analyzes student-related data covering digital habits, lifestyle patterns, demographic characteristics, and health indicators.
 
@@ -41,9 +41,9 @@ The figures above reflect the dashboard screenshot. The number of students in th
 | Physical well-being | Physical health score |
 | Derived analysis | Health status, correlations, group comparisons |
 
-> Add the original dataset source, license, and full column schema here. Do not publish private student information or sensitive raw health data.
 
-## 4. Dashboard Features
+
+##⌨ 4. Dashboard Features
 
 ### Interactive filters
 Users can filter the dashboard by:
@@ -91,7 +91,7 @@ Displays correlations between selected digital habits, lifestyle variables, and 
 ### Data quality and recommendations
 Summarizes record counts, missing values, completeness, outlier checks, key findings, conclusions, and suggested actions.
 
-## 5. Key Insights
+##💻 5. Key Insights
 
 The following observations are based on the displayed dashboard and should be verified against the source dataset before formal reporting.
 
@@ -119,7 +119,7 @@ The dashboard's data quality section reports:
 
 These are the values shown in the dashboard. Confirm the calculations and the scope of each metric against the underlying dataset. Outliers should be investigated rather than automatically removed, as they may represent valid observations.
 
-## 7. Recommendations
+## 📢7. Recommendations
 
 - **Promote balanced screen time:** Encourage students to monitor and manage their daily social media usage.
 - **Support healthy sleep routines:** Encourage consistent sleep schedules and investigate the relationship between sleep and well-being.
@@ -131,7 +131,7 @@ These are the values shown in the dashboard. Confirm the calculations and the sc
 
 These recommendations are intended to support student well-being, not to diagnose health conditions.
 
-## 8. Tools and Technologies
+##⚙ 8. Tools and Technologies
 
 The dashboard demonstrates analytical activities such as:
 
@@ -145,7 +145,7 @@ The dashboard demonstrates analytical activities such as:
 
 **Document only the tools actually used in this project.** Depending on your implementation, these might include Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, or Excel. The dashboard screenshot alone does not confirm the technology stack.
 
-## 9. Project Workflow
+## ♦ 9. Project Workflow
 
 1. **Data collection:** Obtain the student lifestyle, digital usage, and health dataset.
 2. **Data preprocessing:** Validate data types and check missing values, duplicates, and inconsistent records.
@@ -155,7 +155,7 @@ The dashboard demonstrates analytical activities such as:
 6. **Insight generation:** Interpret observed patterns and identify questions for further investigation.
 7. **Recommendations:** Translate findings into practical suggestions for digital well-being and healthy lifestyles.
 
-## 10. Conclusion
+##🔰 10. Conclusion
 
 The **Student Health & Social Media Analytics Dashboard** demonstrates how data analytics can be used to investigate relationships between students' digital habits and health indicators.
 
@@ -163,7 +163,7 @@ The dashboard brings together interactive visualizations, comparative analysis, 
 
 Overall, the project illustrates how raw data can be transformed into understandable insights that support further analysis and informed discussions about healthier digital habits among students.
 
-## 11. Future Enhancements
+## ✅11. Future Enhancements
 
 - Add time-based analysis to track changes in student behavior.
 - Explore validated predictive models with appropriate safeguards.
@@ -191,9 +191,8 @@ student-health-social-media-analytics/
 └── .gitignore
 ```
 
-Do not include private student information or sensitive raw health data. If the dataset is publicly available, document its source and license.
 
-[image]()
+!["image"](Image/project.PNG)
 
 ## Project Tags
 
